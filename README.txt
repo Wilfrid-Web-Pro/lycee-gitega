@@ -4,7 +4,7 @@ TITLE: LYCEE GITEGA
 AUTHOR:
 DESIGNED & DEVELOPED by CUBAHIRO Wilfrid
 
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b77e2fcc-c168-402b-ac7d-eebfb45f5b50/deploy-status)](https://app.netlify.com/sites/lyceegitega/deploys)
 
 CREDITS:
 Bootstrap
