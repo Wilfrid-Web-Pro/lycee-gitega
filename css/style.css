@@ -1067,7 +1067,7 @@ h1, h2, h3, h4, h5, h6, figure {
   right: 0;
   bottom: 0;
   content: '';
-  background: rgba(255, 255, 255, 0.9);
+  background: rgb(0 0 0 / 44%);
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
